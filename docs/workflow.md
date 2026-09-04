@@ -2,7 +2,7 @@
 
 ## Workflow Overview
 
-The workflow follows a standard reference-based NGS analysis sequence:
+This document describes a standard reference-based NGS data analysis workflow:
 
 **FASTQ/SRA → Quality Control → Read Preprocessing → Reference Alignment → BAM Processing → Variant Calling**
 
@@ -82,4 +82,8 @@ Large sequencing and alignment files are not included in this repository because
 
 ## Academic Scope
 
-This workflow represents practical academic training in NGS data analysis and command-line bioinformatics. The repository focuses on understanding the analysis steps, command structure, file formats, and commonly used tools.
+This workflow documents practical academic training in NGS data analysis and command-line bioinformatics.
+
+The repository focuses on understanding the analysis steps, command structure, file formats, and commonly used tools.
+
+The scripts provided in this repository are workflow templates intended to demonstrate the sequence of NGS analysis steps.
