@@ -1,0 +1,7 @@
+SRA Toolkit
+FastQC
+fastp
+MultiQC
+BWA
+SAMtools
+BCFtools
